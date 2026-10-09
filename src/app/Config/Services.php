@@ -2,6 +2,8 @@
 
 namespace Config;
 
+use App\Models\CommentModel;
+use App\Repositories\CommentRepository;
 use CodeIgniter\Config\BaseService;
 
 /**

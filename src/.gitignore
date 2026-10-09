@@ -87,6 +87,12 @@ phpunit
 vendor/
 
 #-------------------------
+# Node
+#-------------------------
+/node_modules/
+npm-debug.log*
+
+#-------------------------
 # IDE / Development Files
 #-------------------------
 
@@ -125,4 +131,3 @@ nb-configuration.xml
 /results/
 /phpunit*.xml
 /.phpunit.*.cache
-
