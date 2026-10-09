@@ -1,8 +1,4 @@
 {
-  "scripts": {
-    "build:assets": "node scripts/copy-vendor-assets.js",
-    "postinstall": "npm run build:assets"
-  },
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.0.0"
